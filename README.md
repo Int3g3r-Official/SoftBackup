@@ -1,5 +1,7 @@
 # SoftBackup
 
+![alt text](https://mk0atomicsmashcd7n46.kinstacdn.com/wp-content/uploads/2018/05/backup_strategy_wysiwyg.gif)
+
 ### How does it work?
 
 #### DEPENDENCIES
