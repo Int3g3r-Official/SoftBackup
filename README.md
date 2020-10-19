@@ -14,9 +14,9 @@
 
 ### AFTER REINSTALL
 - Download the repo again.
-- Make saved.txt file in the root folder (where source.py is).
+- Place saved.txt file in the root folder (where source.py is).
 - Run "SoftBackup" and type restore or r.
-- Now your default webbrowser will open and you will get all download pages for those apps.
+- Now your default web-browser will open and you will get all download pages for those apps.
 
 ## Why don't i just simply reinstall everything manually?
 
