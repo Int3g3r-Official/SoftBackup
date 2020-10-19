@@ -2,6 +2,10 @@
 
 ## How does it work?
 
+### DEPENDENCIES
+
+- googlesearch (pip3 install google-search)
+
 ### BEFORE REINSTALL
 
 - Before you reinstall your operating system you will launch "SoftBackup" and you will select the option -> Backup by typing backup or b.
