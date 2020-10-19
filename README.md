@@ -4,15 +4,15 @@
 
 ### BEFORE REINSTALL
 
-- Before you reinstall your operating system you will launch "SoftBackup" and you will select the option -> 1. Save.
-- After it is finished you will find a new folder called output and inside that folder there will be a file named programs.txt.
-- Save that file.
+- Before you reinstall your operating system you will launch "SoftBackup" and you will select the option -> Backup by typing backup or b.
+- After it is finished you will find a new file named saved.txt
+- Save that file on a flash drive or some online storage like onedrive or google drive.
 
 ### AFTER REINSTALL
 - Download the repo again.
-- Make a folder called "Input" (Capital I) and place your programs.txt file there. (Or run softbackup and select restore which will create the folder.)
-- Run "SoftBackup" and select restore.
-- Now your default webbrowser will open and you will get all google search results for that app.
+- Make saved.txt file in the root folder (where source.py is).
+- Run "SoftBackup" and type restore or r.
+- Now your default webbrowser will open and you will get all download pages for those apps.
 
 ## Why don't i just simply reinstall everything manually?
 
