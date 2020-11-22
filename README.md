@@ -1,6 +1,6 @@
 # SoftBackup
 
-![alt text](https://mk0atomicsmashcd7n46.kinstacdn.com/wp-content/uploads/2018/05/backup_strategy_wysiwyg.gif)
+![alt text](https://media1.tenor.com/images/2a03db1ad9e32df40e5b36a0fc49e140/tenor.gif?itemid=11822909)
 
 ### How does it work?
 
