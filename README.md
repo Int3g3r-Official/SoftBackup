@@ -2,6 +2,11 @@
 
 ![alt text](https://media1.tenor.com/images/2a03db1ad9e32df40e5b36a0fc49e140/tenor.gif?itemid=11822909)
 
+## What is this?
+
+It installs all your previously installed applications upon a system reinstall.
+
+
 ### How does it work?
 
 #### DEPENDENCIES
