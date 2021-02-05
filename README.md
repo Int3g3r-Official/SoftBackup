@@ -29,5 +29,4 @@ It installs all your previously installed applications upon a system reinstall.
 
 I think that it is easier to have 1 file saved than remembering all programs you had and you might just forget some if you have a lot of them.
 
-## Thank you for checking out my repo.
-## Currently only MACOSX is supported.
+# Currently only MACOSX is supported.
